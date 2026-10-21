@@ -31,8 +31,7 @@ Trabaja siempre con copias de tus CSV/Excel, no con los originales.
 No guardes ni compartas contraseñas ni claves de acceso en la herramienta.
 Feedback
 Busco opiniones sinceras: qué te falta, qué te confunde y qué plataformas te interesaría importar.
-Escríbeme a: iasgg86@gmail.com
-O abre un issue en este repositorio.
+Abre un issue en este repositorio y me cuentas.
 Si me envías un CSV de una plataforma que aún no está soportada, anonimízalo antes: borra nombre, IBAN, DNI y cualquier dato que te identifique. Lo usaré solo para crear el importador y lo eliminaré después.
 Condiciones de uso
 Uso gratuito y personal. No se permite redistribuir los archivos ni venderlos. El software se ofrece "tal cual", sin garantías; el autor no se hace responsable de decisiones tomadas a partir de sus resultados. 
